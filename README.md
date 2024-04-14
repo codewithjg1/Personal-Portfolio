@@ -1,8 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://varadbhogayata.github.io](https://personal-portfolio-by-jg.netlify.app/
-
+> https://personal-portfolio-by-jg.netlify.app/
 
 ### Website Preview
 <p align="center"> 
